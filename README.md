@@ -1,4 +1,4 @@
-# 🐧 (IaC) - Infraestrutura como Código: Script de Criação de Estrutura de Usuários,diretórios e permissões.
+# 🐧 LINUX (IaC) - Infraestrutura como Código: Script de Criação de Estrutura de Usuários,diretórios e permissões.
 
 Desafio proposto pela [Digital Innovation One](https://www.dio.me/en), Sobre o projeto: 
 
